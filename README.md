@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Priscilla! 👋
-
 ![Banner Image](https://github.com/priscilla-ruilova/priscilla-ruilova/blob/94f0750e85ee4c222f6b75c328856f639f9b0c5d/gitHubBanner.png)
+
+# Hi there, I'm Priscilla!
 
 I'm a software engineer, salsa dancer and sustainable ag policy nerd. I am motivated by the ways technology can create community resilience through smart and just systems.
 
