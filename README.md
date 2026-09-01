@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a software engineer, salsa dancer and sustainable ag policy nerd. I am motivated by the ways technology can create community resilience through smart and just systems.
 
 - 🌱 Currently learning: JavaScript 
-- 🌍 Languages: html, CSS, JavaScript, English, Spanish, Korean
+- 🌍 Languages: HTML, CSS, JavaScript, English, Spanish, Korean
 - 📫 How to reach me: priscillaruilova@gmail.com
 
 ## Get in Touch 📬
