@@ -22,9 +22,4 @@ I'm a software engineer, salsa dancer and sustainable ag policy nerd. I am motiv
 - 🌍 Languages: HTML, CSS, JavaScript, English, Spanish, Korean
 - 📫 How to reach me: priscillaruilova@gmail.com
 
-## Get in Touch 📬
-
-- **[LinkedIn]**(https://www.linkedin.com/in/priscilla-ruilova/)
-- **[Twitter]**(https://x.com/priscyru)
-
 
