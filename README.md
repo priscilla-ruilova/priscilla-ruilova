@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Banner Image](https://github.com/user-attachments/assets/69dfa13a-0a3f-47c1-a64f-c27a9bdf35fd")
-
+![Banner Image](https://github.com/priscilla-ruilova/priscilla-ruilova/blob/main/GitHub%20banner.png) 
 # Hi there! 
 
 I'm a software engineer, salsa dancer and sustainable ag policy nerd. I am motivated by the ways technology can create community resilience through smart and just systems.
