@@ -15,11 +15,23 @@ Here are some ideas to get you started:
 ![Banner Image](https://github.com/priscilla-ruilova/priscilla-ruilova/blob/main/GitHub%20banner.png) 
 # Hi there! 
 
-<p align="center">I'm a software engineer, salsa dancer and sustainable ag policy nerd. I am motivated by the ways technology can create community resilience through smart and just systems.</p>
+<p align="center">I'm a software engineer, salsa dancer and sustainable ag policy nerd. I'm using technology to build community resilience through smart and just systems.</p>
 
-- 🌱 Currently learning: JavaScript 
-- 🌍 Languages: HTML, CSS, JavaScript, English, Spanish, Korean
-- 📫 How to reach me: priscillaruilova@gmail.com
-- See my work at: https://priscilla-ruilova.netlify.app/
+<p align="center">I aim to build alongside people who believe that technology can be a tool for strengthening communities, expanding access, and creating lasting change. If this sounds like you, let's connect!</p>
+
+## 🌱 Currently working on: 
+- Backend development and building my own apis with security in mind
+- A civic tech passion project designed to support urban farmers in protecting community-managed land
+  
+## ✨ My skills: 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,nodejs,react)](https://skillicons.dev)
+- 🌍 Languages: English, Spanish, Korean
+  
+## 📫 How to reach out: 
+- Check out my [portfolio](https://priscilla-ruilova.netlify.app/)
+- Email me at: priscillaruilova@gmail.com
+- Find me on [LinkedIn](www.linkedin.com/in/priscilla-ruilova)
+
+
 
 
