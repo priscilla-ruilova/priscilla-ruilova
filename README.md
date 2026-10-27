@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - A civic tech passion project designed to support urban farmers in protecting community-managed land
   
 ## ✨ My skills: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,node,react)](https://skillicons.dev)
 - 🌍 Languages: English, Spanish, Korean
   
 ## 📫 How to reach out: 
