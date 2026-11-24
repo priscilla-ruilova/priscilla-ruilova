@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## 📫 How to reach out: 
 - Check out my [portfolio](https://priscilla-ruilova.netlify.app/)
 - Email me at: priscillaruilova@gmail.com
-- Find me on [LinkedIn](www.linkedin.com/in/priscilla-ruilova)
+- Find me on [LinkedIn](https://www.linkedin.com/in/priscilla-ruilova/)
 
 
 
